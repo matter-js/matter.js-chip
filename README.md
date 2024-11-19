@@ -1,5 +1,5 @@
 # matter.js-chip container
-[matter.js](https://github.com/project-chip/matter.js) uses this Docker image for testing.  It contains chip-tool and tests from [connectedhomeip](https://github.com/project-chip/connectedhomeip).
+The [matter.js](https://github.com/project-chip/matter.js) test harness uses this Docker image for testing.  It contains chip-tool and certificaction tests from [connectedhomeip](https://github.com/project-chip/connectedhomeip).
 
 matter.js tooling pulls automatically as needed.  You can also pull manually:
 
